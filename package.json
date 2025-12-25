@@ -1,0 +1,27 @@
+{
+  "name": "langchain-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangjiahui-cn/langchain-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangjiahui-cn/langchain-study/issues"
+  },
+  "homepage": "https://github.com/tangjiahui-cn/langchain-study#readme",
+  "dependencies": {
+    "@langchain/core": "^1.1.8",
+    "@langchain/deepseek": "^1.0.3",
+    "dotenv": "^17.2.3",
+    "langchain": "^1.2.3",
+    "zod": "^4.2.1"
+  }
+}
