@@ -14,6 +14,9 @@ importers:
       '@langchain/deepseek':
         specifier: ^1.0.3
         version: 1.0.3(@langchain/core@1.1.8(openai@6.15.0(zod@4.2.1)))
+      '@langchain/langgraph':
+        specifier: ^1.0.7
+        version: 1.0.7(@langchain/core@1.1.8(openai@6.15.0(zod@4.2.1)))(zod@4.2.1)
       dotenv:
         specifier: ^17.2.3
         version: 17.2.3
